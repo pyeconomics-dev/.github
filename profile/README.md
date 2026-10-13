@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/pyeconomics-banner.png" width="100%" alt="pyeconomics: Empowering Economic Insight">
+</p>
+
 # pyeconomics
 
 Open economics and finance models for Python. Every model has typed inputs and
