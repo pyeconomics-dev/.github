@@ -23,5 +23,6 @@ installs 0.2.6, the current stable release.
 [Roadmap](https://github.com/pyeconomics-dev/pyeconomics/blob/main/docs/roadmap/ROADMAP.md) ·
 [Contributing](https://github.com/pyeconomics-dev/pyeconomics/blob/main/CONTRIBUTING.md) ·
 [Security policy](https://github.com/pyeconomics-dev/pyeconomics/security/policy) ·
-[Support the project](https://thanks.dev/u/gh/pyeconomics-dev)
+[Sponsor](https://github.com/sponsors/pyeconomics-dev) ·
+[thanks.dev](https://thanks.dev/u/gh/pyeconomics-dev)
 
